@@ -1,0 +1,15 @@
+﻿State Code,State Description,Percent estimate
+S1,At home without home care,51.07 
+S2,At home with home care,17.34 
+S3,EOL prognosis at home with home care,9.41 
+S4,Chronic conditions in nursing home,13.91 
+S5,EOL prognosis in nursing home,6.66 
+S6,Acute illness requiring ED care,0.22 
+S7,EOL prognosis requiring acute care in ED,0.04 
+S8,Acute illness requiring inpatient care,0.15 
+S9,EOL prognosis requiring inpatient care,0.03 
+S10,EOL care in complex continuing care (CCC),1.17 
+S11,EOL care in palliative care ward or ALC,
+S12,Palliative prognosis in non-home hospice,
+S13,EOL prognosis requiring ICU care,
+S14,Death,

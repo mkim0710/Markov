@@ -1,0 +1,14 @@
+"Sn(t+1) \ Sn(t)	",At home without home care,At home with home care,EOL prognosis at home with home care,Chronic conditions in nursing home,EOL prognosis in nursing home,Acute illness requiring ED care,EOL prognosis requiring acute care in ED,Acute illness requiring inpatient care,EOL prognosis requiring inpatient care,EOL care in complex continuing care (CCC),EOL care in palliative care ward or ALC,Palliative prognosis in non-home hospice,EOL prognosis requiring ICU care
+At home without home care,0.9873305,,,,,,,,,,,,
+At home with home care,0.007164,0.9844945,,,,,,,,,,,
+EOL prognosis at home with home care,,0.01,1,,,,,,,,,,
+Chronic conditions in nursing home,0.000155,0.000155,,0.9871145,,,,,,,,,
+EOL prognosis in nursing home,,,,0.01,0.9971145,,,,,,,,
+Acute illness requiring ED care,0.0053505,0.0053505,,0.0028855,,0.24685,,,,,,,
+EOL prognosis requiring acute care in ED,,,,,0.0028855,0.01,0.25685,,,,,,
+Acute illness requiring inpatient care,,,,,,0.74315,,0.88,,,,,
+EOL prognosis requiring inpatient care,,,,,,,0.74315,0.01,0.32,,,,
+EOL care in complex continuing care (CCC),,,,,,,,,0.05,0.91,,,
+EOL care in palliative care ward or ALC,,,,,,,,,0.52,,1,,0.52
+Palliative prognosis in non-home hospice,,,,,,,,,,0.09,,1,
+EOL prognosis requiring ICU care,,,,,,,,0.11,0.11,,,,0.48
